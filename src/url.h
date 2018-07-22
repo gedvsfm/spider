@@ -13,7 +13,6 @@
 #include <map>
 #include <string>
 #include "spider.h"
-#include "bloomfilter.h"
 
 using namespace std;
 
